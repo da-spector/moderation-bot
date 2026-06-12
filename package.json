@@ -1,0 +1,17 @@
+{
+  "name": "moderation-bot",
+  "version": "0.1.0",
+  "description": "Advanced Discord moderation bot with Hugging Face image moderation and human approval workflow.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.0",
+    "dotenv": "^16.3.1"
+  }
+}
